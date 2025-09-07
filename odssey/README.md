@@ -1,0 +1,1 @@
+The version 1.0 will be a backport of Odyssey 2.0. This is because development was found to be way easier using Turbowarp. However, the 2.0 version will not be compatible with vanilla Scratch unlike the 1.0 version.
